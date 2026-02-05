@@ -50,14 +50,14 @@ $$x_2 = \frac{-(\theta_0 + \theta_1 x_1)}{\theta_2}$$
 ### Learned Parameters
 After running the optimization loop for 1000 iterations, the model converged to the following weights ($\theta$):
 
-![Theta Values](img/Theta.jpg)
+![Theta Values](img/model_summary_theta.png)
 
 ### Visualization: Decision Boundary
 The following plots show the dataset with the calculated decision boundary (the blue line). Points on one side are classified as 0, and points on the other as 1.
 
 | **Training Set** | **Test Set** |
 |:---:|:---:|
-| ![Train Set Plot](img/Train%20Set.jpg) | ![Test Set Plot](img/Test%20Set.jpg) |
+| ![Train Set Plot](img/Train%20Set.png) | ![Test Set Plot](img/Test%20Set.png) |
 | *Figure 1: The model fitting the training data.* | *Figure 2: The model generalizing to unseen test data.* |
 
 ---
@@ -67,15 +67,12 @@ The following plots show the dataset with the calculated decision boundary (the 
 ### Cost Function Convergence
 The graph below shows the value of the Cost Function (MSE/Log-Loss) decreasing over 1000 iterations. The smooth curve indicates a stable learning rate.
 
-![Convergence Plot](img/MSE.jpg)
+![Convergence Plot](img/MSE.png)
 
 ### Final Error Rates
 While the model optimizes Log-Loss, we also calculated the Mean Squared Error (MSE) for evaluation:
 
-| Metric | Value | Reference Image |
-| :--- | :--- | :--- |
-| **Train MSE** | `0.00237` | ![Train MSE](img/Train%20MSE.jpg) |
-| **Test MSE** | `0.01814` | ![Test%20MSE](img/Test%20MSE.jpg) |
+![mse comparison results](img/mse_comparison_results.png)
 
 ---
 
