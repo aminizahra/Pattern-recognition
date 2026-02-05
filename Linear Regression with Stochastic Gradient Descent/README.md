@@ -84,6 +84,10 @@ python main.py
 # Note: Replace 'main.py' with the actual name of your script if different.
 ```
 
-### 👤 Author
-Zahra Amini
-GitHub: @aminizahra
+### 👤 Author: Zahra Amini
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="30" alt="GitHub Logo"> [GitHub: @aminizahra](https://github.com/aminizahra)
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" width="30" alt="Portfolio Logo"> [Portfolio](https://aminizahra.github.io/)
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="30" alt="LinkedIn Logo"> [LinkedIn](https://www.linkedin.com/in/zahraamini-ai/)
