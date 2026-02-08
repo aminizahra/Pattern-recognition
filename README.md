@@ -49,7 +49,7 @@ Ensure you have Python 3.x installed. The following libraries are used across va
 
 ### Installation
 ```bash
-git clone [https://github.com/aminizahra/Pattern-recognition.git](https://github.com/aminizahra/Pattern-recognition.git)
+git clone https://github.com/aminizahra/Pattern-recognition.git
 cd Pattern-recognition
 pip install -r requirements.txt # Or install the libraries listed above
 ```
