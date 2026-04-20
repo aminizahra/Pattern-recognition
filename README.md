@@ -11,14 +11,14 @@ A comprehensive collection of fundamental Machine Learning algorithms implemente
 The projects are organized by algorithm type and complexity. Each directory contains a detailed implementation, mathematical background, and performance visualizations.
 
 ### 1. Regression Analysis
-* **[Linear Regression (Closed-Form)](./Linear%20Regression_Closed-Form/)**: Solving linear models analytically using the Normal Equation.
+* **[Linear Regression (Closed-Form)](./Linear%20Regression_Closed%20Form/)**: Solving linear models analytically using the Normal Equation.
 * **[Linear Regression (SGD)](./Linear%20Regression%20with%20Stochastic%20Gradient%20Descent/)**: Efficient iterative optimization using Stochastic Gradient Descent for large-scale data.
 
 ### 2. Classification Models
 * **[Binary Logistic Regression](./Binary%20Classification%20Logistic%20regression/)**: Probabilistic binary classification using the Sigmoid activation and Log-Loss optimization.
-* **[Multiclass Softmax Regression](./Multiclass%20Classification_Softmax%20Logistic%20regression/)**: Extending logistic regression to multiple classes using Softmax, OvA, and OvO strategies.
+* **[Multiclass Softmax Regression](./Multiclass%20Classification_Softmax/)**: Extending logistic regression to multiple classes using Softmax, OvA, and OvO strategies.
 * **[Bayesian GLDA](./Bayesian%20Classification/)**: Gaussian Linear Discriminant Analysis for generative classification with shared covariance.
-* **[Quadratic Discriminant Analysis (QDA)](./Quadratic%20Multiclass%20Classification%20(QDA)/)**: Non-linear multiclass classification with class-specific covariance matrices.
+* **[Quadratic Discriminant Analysis (QDA)](./Quadratic%20Multiclass%20Classification/)**: Non-linear multiclass classification with class-specific covariance matrices.
 * **[Naïve Bayes](./Naïve%20Bayes%20Classification/)**: Sentiment analysis on text data (Yelp, IMDB, Amazon) using probabilistic word frequencies and Laplace smoothing.
 
 ### 3. Unsupervised Learning
